@@ -1,5 +1,5 @@
 {
-    "inputs": ["https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/refs/heads/main/henry8.xml"],
+    "inputs": ["https://raw.githubusercontent.com/djakacki/henry8/refs/heads/main/henry8.xml"],
     "documents": "//div[@type='act']",
     "ignoreNamespace": true,
     "documentTitle": "head",
