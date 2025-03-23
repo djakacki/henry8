@@ -1,0 +1,293 @@
+{
+    "inputs": ["https://raw.githubusercontent.com/LEAF-VRE/dtoc_training/refs/heads/main/henry8.xml"],
+    "documents": "//div[@type='act']",
+    "ignoreNamespace": true,
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "indexDocument": "",
+    "editionTitle": "Henry the Eighth or All Is True",
+    "editionSubtitle": "",
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//sp[@who='#emdH8_M_abergavenny']",
+                "label": "Abergavenny"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "place"
+            },
+            {
+                "xpath": "//speaker",
+                "label": "speaker"
+            },
+            {
+                "xpath": "//sp",
+                "label": "speech"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_katherine']",
+                "label": "Katherine"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_anne']",
+                "label": "Anne Boleyn"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_henry']",
+                "label": "King Henry"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_acolyte']",
+                "label": "Acolyte"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_asaph']",
+                "label": "Bishop of Saint Asaph"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_barons']",
+                "label": "Barons of the Cinque Ports"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_boy']",
+                "label": "Boy"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_brandon']",
+                "label": "Brandon"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_buckingham']",
+                "label": "Duke of Buckingham"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_butts']",
+                "label": "Doctor Butts, a physician"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_campeius']",
+                "label": "Cardinal Lorenzo Campeggio (or Campeius)"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_canterbury']",
+                "label": "Bishop of Canterbury"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_capuchius']",
+                "label": "Eustace Lord Capuchius (or Chapuys)"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_chamberlain']",
+                "label": "Lord Chamberlain"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_cranmer']",
+                "label": "Archbishop Cranmer"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_crier']",
+                "label": "Crier"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_cromwell]",
+                "label": "Thomas Cromwell"
+            },
+            {
+                "xpath": "//sp=[@who='#emdH8_M_denny']",
+                "label": "Sir Anthony Denny"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_dorset']",
+                "label": "Marquis Dorset"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_duchess']",
+                "label": "Duchess of Norfolk"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_ely']",
+                "label": "Bishop of Ely"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_gardiner']",
+                "label": "Stephen Gardiner, Bishop of Winchester"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_garter']",
+                "label": "Garter King at Arms"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_gentleman1']",
+                "label": "1 Gentleman"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_gentleman2']",
+                "label": "2 Gentleman"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_gentleman3']",
+                "label": "3 Gentleman"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_gentlewoman']",
+                "label": "Gentlewoman"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_griffith']",
+                "label": "Griffith"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_guards']",
+                "label": "Guards"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_guildford']",
+                "label": "Sir Henry Guildford"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_keeper']",
+                "label": "Keeper of the Council Chamber"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_lincoln']",
+                "label": "Bishop of Lincoln"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_london']",
+                "label": "John Stokesley, Bishop of London"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_ladies']",
+                "label": "Ladies in Waiting"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_lords']",
+                "label": "Lords"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_lovell']",
+                "label": "Sir Thomas Lovell"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_man']",
+                "label": "Man"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_mayor']",
+                "label": "Mayor of London"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_mdorset']",
+                "label": "Marchioness of Dorset"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_messenger']",
+                "label": "Messenger"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_norfolk']",
+                "label": "Duke of Norfolk"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_oldlady']",
+                "label": "Old Lady"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_page']",
+                "label": "Old Lady"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_patience']",
+                "label": "Patience"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_personages']",
+                "label": "Personages, spirits who appear in the vision"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_pman']",
+                "label": "Porter’s Man"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_porter']",
+                "label": "Porter"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_Prologue']",
+                "label": "Prologue"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_rochester']",
+                "label": "Bishop of Rochester"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_sandys']",
+                "label": "Lord Sandys"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_secretary']",
+                "label": "Two Secretaries"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_sergeant']",
+                "label": "Sergeant at Arms"
+            },
+            {
+                "xpath": "//sp[@who='#emdH8_M_servant']",
+                "label": "Servant"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_scribe']",
+                "label": "A Scribe"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_somerset']",
+                "label": "Sir Charles Somerset"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_suffolk']",
+                "label": "Duke of Suffolk"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_surrey']",
+                "label": "Earl of Surrey"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_surveyor']",
+                "label": "Surveyor"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_vaux']",
+                "label": "Sir Nicholas Vaux"
+            },
+            {
+                "xpath": " //sp[@who='#emdH8_M_wolsey']",
+                "label": "Cardinal Wolsey"
+            },
+            {
+                "xpath": "//eventName",
+                "label": "event"
+            },
+            {
+                "xpath": "//orgName",
+                "label": "group"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "place"
+            }
+        ]
+    }
+}
