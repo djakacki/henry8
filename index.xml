@@ -19,34 +19,38 @@
    <text>
       <body>
          <div type="index">
-            <head>London Places in Henry VIII</head>
             <list>
                <item>
-                  <ref target="#tow001 #tow002 #tow003 #tow004">Tower of London</ref>
-               </item>
-               <item>
-                  <ref target="#stlp001">Saint Laurence Poultney</ref>
-               </item>
-               <item>
-                  <ref target="#gre001">Greenwich</ref>
-               </item>
-               <item>
-                  <ref target="#yor001 #yor002 #yor003">York Place</ref>
-               </item>
-               <item>
-                  <ref target="#pri001">Privy Stairs</ref>
-               </item>
-               <item>
-                  <ref target="#bla001">Blackfriars</ref>
-               </item>
-               <item>
-                  <ref target="#wes001">Westminster Abbey</ref>
-               </item>
-               <item>
-                  <ref target="#ric001">Palace of Placentia, Richmond</ref>
+                  <ref target="#tow001 #tow002 #tow003 #tow004 #stlp001 #gre001 #yor001 #yor002 #yor003 #pri001 #bla001 #wes001 #ric001">London Places in Henry VIII</ref>
+                  <list>
+                     <head>London Places in Henry VIII</head>
+                     <item>
+                        <ref target="#tow001 #tow002 #tow003 #tow004">Tower of London</ref>
+                     </item>
+                     <item>
+                        <ref target="#stlp001">Saint Laurence Poultney</ref>
+                     </item>
+                     <item>
+                        <ref target="#gre001">Greenwich</ref>
+                     </item>
+                     <item>
+                        <ref target="#yor001 #yor002 #yor003">York Place</ref>
+                     </item>
+                     <item>
+                        <ref target="#pri001">Privy Stairs</ref>
+                     </item>
+                     <item>
+                        <ref target="#bla001">Blackfriars</ref>
+                     </item>
+                     <item>
+                        <ref target="#wes001">Westminster Abbey</ref>
+                     </item>
+                     <item>
+                        <ref target="#ric001">Palace of Placentia, Richmond</ref>
+                     </item>
+                  </list>
                </item>
             </list>
-
          </div>
       </body>
    </text>
