@@ -1,0 +1,49 @@
+{
+    "inputs": ["https://raw.githubusercontent.com/djakacki/henry8/refs/heads/main/henry8.xml"],
+    "documents": "//div[@type='act']",
+    "ignoreNamespace": true,
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "indexDocument": "",
+    "editionTitle": "Henry the Eighth or All Is True",
+    "editionSubtitle": "",
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//sp[@who='#emdH8_M_abergavenny']",
+                "label": "Abergavenny"
+            },
+            {
+                "xpath": "//roleName[@key='Katharine']",
+                "label": "Katharine"
+            },
+            {
+                "xpath": "//roleName[@key='Anne']",
+                "label": "Anne"
+            },
+            {
+                "xpath": "//roleName[@key='conceptual']",
+                "label": "Queen as abstract concept"
+            },
+            {
+                "xpath": "//eventName",
+                "label": "event"
+            },
+            {
+                "xpath": "//orgName",
+                "label": "group"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "place"
+            }
+        ]
+    }
+}

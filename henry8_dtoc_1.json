@@ -271,22 +271,6 @@
             {
                 "xpath": " //sp[@who='#emdH8_M_wolsey']",
                 "label": "Cardinal Wolsey"
-            },
-            {
-                "xpath": "//eventName",
-                "label": "event"
-            },
-            {
-                "xpath": "//orgName",
-                "label": "group"
-            },
-            {
-                "xpath": "//persName",
-                "label": "person"
-            },
-            {
-                "xpath": "//placeName",
-                "label": "place"
             }
         ]
     }
